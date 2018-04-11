@@ -4,7 +4,7 @@ Modified: 2018-04-08 13:38
 Status: published
 Category: data analysis
 Tags: R, outliers, na
-Slug: data-analysis
+Slug: analyse-car-sales-in-2016
 Author: Mehdi Noui
 
 This is the content of my super blog post.

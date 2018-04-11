@@ -2,7 +2,7 @@ Title: Embedded class
 Date: 2018-04-08 13:39
 Modified: 2018-04-08 13:39
 Status: published
-Category: supervised learning
+Category: machine learning
 Tags: python
 Slug: embedded-class
 Author: Mehdi Noui

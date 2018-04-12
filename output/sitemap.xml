@@ -4,175 +4,175 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2018-04-12T15:43:05-00:00</lastmod>
+<loc>https://blog.nmehdi.com/</loc>
+<lastmod>2018-04-12T15:46:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2018-04-12T15:43:05-00:00</lastmod>
+<loc>https://blog.nmehdi.com/archives.html</loc>
+<lastmod>2018-04-12T15:46:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2018-04-12T15:43:05-00:00</lastmod>
+<loc>https://blog.nmehdi.com/tags.html</loc>
+<lastmod>2018-04-12T15:46:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2018-04-12T15:43:05-00:00</lastmod>
+<loc>https://blog.nmehdi.com/categories.html</loc>
+<lastmod>2018-04-12T15:46:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/about/</loc>
-<lastmod>2018-04-12T15:43:05-00:00</lastmod>
+<loc>https://blog.nmehdi.com/pages/about/</loc>
+<lastmod>2018-04-12T15:46:24-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/subscribe/</loc>
-<lastmod>2018-04-12T15:43:05-00:00</lastmod>
+<loc>https://blog.nmehdi.com/pages/subscribe/</loc>
+<lastmod>2018-04-12T15:46:24-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2018/04/introduction-to-deep-learning.html</loc>
+<loc>https://blog.nmehdi.com/2018/04/introduction-to-deep-learning.html</loc>
 <lastmod>2018-04-11T13:39:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2018/04/embedded-class.html</loc>
+<loc>https://blog.nmehdi.com/2018/04/embedded-class.html</loc>
 <lastmod>2018-04-08T13:39:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2018/04/analyse-car-sales-in-2016.html</loc>
+<loc>https://blog.nmehdi.com/2018/04/analyse-car-sales-in-2016.html</loc>
 <lastmod>2018-04-08T13:38:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2018/04/multi-class-classification.html</loc>
+<loc>https://blog.nmehdi.com/2018/04/multi-class-classification.html</loc>
 <lastmod>2018-04-08T13:37:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2018/04/recommandation-systems.html</loc>
+<loc>https://blog.nmehdi.com/2018/04/recommandation-systems.html</loc>
 <lastmod>2018-04-08T13:20:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/deep-learning</loc>
+<loc>https://blog.nmehdi.com/category/deep-learning</loc>
 <lastmod>2018-04-11T13:39:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/machine-learning</loc>
+<loc>https://blog.nmehdi.com/category/machine-learning</loc>
 <lastmod>2018-04-08T13:39:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/nlp</loc>
+<loc>https://blog.nmehdi.com/category/nlp</loc>
 <lastmod>2018-04-08T13:37:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/recommandation-systems</loc>
+<loc>https://blog.nmehdi.com/category/recommandation-systems</loc>
 <lastmod>2018-04-08T13:20:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/python</loc>
+<loc>https://blog.nmehdi.com/tag/python</loc>
 <lastmod>2018-04-11T13:39:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/kera</loc>
+<loc>https://blog.nmehdi.com/tag/kera</loc>
 <lastmod>2018-04-11T13:39:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/r</loc>
+<loc>https://blog.nmehdi.com/tag/r</loc>
 <lastmod>2018-04-08T13:38:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/outliers</loc>
+<loc>https://blog.nmehdi.com/tag/outliers</loc>
 <lastmod>2018-04-08T13:38:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/na</loc>
+<loc>https://blog.nmehdi.com/tag/na</loc>
 <lastmod>2018-04-08T13:38:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/classification</loc>
+<loc>https://blog.nmehdi.com/tag/classification</loc>
 <lastmod>2018-04-08T13:37:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/text-mining</loc>
+<loc>https://blog.nmehdi.com/tag/text-mining</loc>
 <lastmod>2018-04-08T13:37:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/recommandation</loc>
+<loc>https://blog.nmehdi.com/tag/recommandation</loc>
 <lastmod>2018-04-08T13:20:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/index-jaccard</loc>
+<loc>https://blog.nmehdi.com/tag/index-jaccard</loc>
 <lastmod>2018-04-08T13:20:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/mehdi-noui</loc>
+<loc>https://blog.nmehdi.com/author/mehdi-noui</loc>
 <lastmod>2018-04-11T13:39:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

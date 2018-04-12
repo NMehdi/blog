@@ -82,6 +82,8 @@ AUTHORS_SAVE_AS = 'authors.html'
 THEME = 'pelican-themes/attila-master'
 
 ### Plugins
+MARKUP = ('md', 'ipynb')
+
 PLUGIN_PATHS = [
   'pelican-plugins'
 ]

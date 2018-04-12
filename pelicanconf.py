@@ -108,7 +108,7 @@ SITEMAP = {
 }
 
 # Comments
-DISQUS_SITENAME = "datascience-whatelse"
+DISQUS_SITENAME = "nmehdi-blog"
 
 ### Theme specific settings
 

@@ -4,175 +4,175 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2018-04-12T11:21:56-00:00</lastmod>
+<loc>https://nmehdi.github.io/blog/</loc>
+<lastmod>2018-04-12T13:17:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2018-04-12T11:21:56-00:00</lastmod>
+<loc>https://nmehdi.github.io/blog/archives.html</loc>
+<lastmod>2018-04-12T13:17:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2018-04-12T11:21:56-00:00</lastmod>
+<loc>https://nmehdi.github.io/blog/tags.html</loc>
+<lastmod>2018-04-12T13:17:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2018-04-12T11:21:56-00:00</lastmod>
+<loc>https://nmehdi.github.io/blog/categories.html</loc>
+<lastmod>2018-04-12T13:17:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/about/</loc>
-<lastmod>2018-04-12T11:21:56-00:00</lastmod>
+<loc>https://nmehdi.github.io/blog/pages/about/</loc>
+<lastmod>2018-04-12T13:17:50-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/subscribe/</loc>
-<lastmod>2018-04-12T11:21:56-00:00</lastmod>
+<loc>https://nmehdi.github.io/blog/pages/subscribe/</loc>
+<lastmod>2018-04-12T13:17:50-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2018/04/introduction-to-deep-learning.html</loc>
+<loc>https://nmehdi.github.io/blog/2018/04/introduction-to-deep-learning.html</loc>
 <lastmod>2018-04-11T13:39:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2018/04/embedded-class.html</loc>
+<loc>https://nmehdi.github.io/blog/2018/04/embedded-class.html</loc>
 <lastmod>2018-04-08T13:39:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2018/04/analyse-car-sales-in-2016.html</loc>
+<loc>https://nmehdi.github.io/blog/2018/04/analyse-car-sales-in-2016.html</loc>
 <lastmod>2018-04-08T13:38:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2018/04/multi-class-classification.html</loc>
+<loc>https://nmehdi.github.io/blog/2018/04/multi-class-classification.html</loc>
 <lastmod>2018-04-08T13:37:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2018/04/recommandation-systems.html</loc>
+<loc>https://nmehdi.github.io/blog/2018/04/recommandation-systems.html</loc>
 <lastmod>2018-04-08T13:20:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/deep-learning</loc>
+<loc>https://nmehdi.github.io/blog/category/deep-learning</loc>
 <lastmod>2018-04-11T13:39:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/machine-learning</loc>
+<loc>https://nmehdi.github.io/blog/category/machine-learning</loc>
 <lastmod>2018-04-08T13:39:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/nlp</loc>
+<loc>https://nmehdi.github.io/blog/category/nlp</loc>
 <lastmod>2018-04-08T13:37:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/recommandation-systems</loc>
+<loc>https://nmehdi.github.io/blog/category/recommandation-systems</loc>
 <lastmod>2018-04-08T13:20:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/python</loc>
+<loc>https://nmehdi.github.io/blog/tag/python</loc>
 <lastmod>2018-04-11T13:39:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/kera</loc>
+<loc>https://nmehdi.github.io/blog/tag/kera</loc>
 <lastmod>2018-04-11T13:39:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/r</loc>
+<loc>https://nmehdi.github.io/blog/tag/r</loc>
 <lastmod>2018-04-08T13:38:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/outliers</loc>
+<loc>https://nmehdi.github.io/blog/tag/outliers</loc>
 <lastmod>2018-04-08T13:38:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/na</loc>
+<loc>https://nmehdi.github.io/blog/tag/na</loc>
 <lastmod>2018-04-08T13:38:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/classification</loc>
+<loc>https://nmehdi.github.io/blog/tag/classification</loc>
 <lastmod>2018-04-08T13:37:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/text-mining</loc>
+<loc>https://nmehdi.github.io/blog/tag/text-mining</loc>
 <lastmod>2018-04-08T13:37:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/recommandation</loc>
+<loc>https://nmehdi.github.io/blog/tag/recommandation</loc>
 <lastmod>2018-04-08T13:20:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/index-jaccard</loc>
+<loc>https://nmehdi.github.io/blog/tag/index-jaccard</loc>
 <lastmod>2018-04-08T13:20:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/mehdi-noui</loc>
+<loc>https://nmehdi.github.io/blog/author/mehdi-noui</loc>
 <lastmod>2018-04-11T13:39:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

@@ -15,8 +15,8 @@ DEFAULT_LANG = u'en'
 
 LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = False
-MENUITEMS = [('Machine Learning','/category/machine-learning'), ('Deep Learning','/category/deep-learning'), 
-							('Natural Languge Processing','/category/nlp'), ('Recommandation Systems','/category/recommandation-systems')]
+MENUITEMS = [('Machine Learning','/category/machine-learning/'), ('Deep Learning','/category/deep-learning/'), 
+							('Natural Languge Processing','/category/nlp/'), ('Recommandation Systems','/category/recommandation-systems/')]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

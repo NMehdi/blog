@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'NMehdi'
 SITENAME = u'Datascience, what else'
-SITEURL = ''
+SITEURL = 'https://nmehdi.github.io/blog'
 
 PATH = 'content'
 
@@ -67,7 +67,7 @@ MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 
 # Tags and Category path 
 CATEGORY_URL = 'category/{slug}'
-CATEGORY_SAVE_AS = 'category/{slug}.html'
+CATEGORY_SAVE_AS = 'category/{slug}'
 CATEGORIES_SAVE_AS = 'categories.html'
 TAG_URL = 'tag/{slug}'
 TAG_SAVE_AS = 'tag/{slug}/index.html'

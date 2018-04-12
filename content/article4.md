@@ -1,6 +1,5 @@
 Title: Embedded class
 Date: 2018-04-08 13:39
-Modified: 2018-04-08 13:39
 Status: published
 Category: machine learning
 Tags: python

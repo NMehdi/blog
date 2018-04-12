@@ -1,6 +1,4 @@
 Title: Subscribe
-Url: /
-Save_as: pages/subscribe.html
 Slug: subscribe
 Status: published
 

@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Mehdi NOUI'
-SITENAME = u'Data Science, What else ?'
+AUTHOR = u'NMehdi'
+SITENAME = u'Datascience, what else'
 SITEURL = ''
 
 PATH = 'content'
@@ -16,8 +16,7 @@ DEFAULT_LANG = u'en'
 LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = False
 MENUITEMS = [('Machine Learning','/category/machine-learning'), ('Deep Learning','/category/deep-learning'), 
-							('Natural Languge Processing','/category/nlp'), ('Recommandation Systems','/category/recommandation-systems'), 
-							('About', '/pages/about.html'), ('Subscribe', '/pages/subscribe.html')]
+							('Natural Languge Processing','/category/nlp'), ('Recommandation Systems','/category/recommandation-systems')]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -69,6 +68,7 @@ MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 # Tags and Category path 
 CATEGORY_URL = 'category/{slug}'
 CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+CATEGORIES_SAVE_AS = 'catgegories.html'
 TAG_URL = 'tag/{slug}'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
 TAGS_SAVE_AS = 'tags.html'
@@ -79,7 +79,7 @@ AUTHOR_SAVE_AS = 'author/{slug}/index.html'
 AUTHORS_SAVE_AS = 'authors.html'
 
 # Theme
-THEME = 'pelican-themes/attila'
+THEME = 'pelican-themes/attila-master'
 
 ### Plugins
 PLUGIN_PATHS = [
@@ -107,23 +107,24 @@ SITEMAP = {
     }
 }
 
+# Comments
+DISQUS_SITENAME = "datascience-whatelse"
 
+### Theme specific settings
 
+COLOR_SCHEME_CSS = 'github.css'
 
+CSS_OVERRIDE = ['assets/css/myblog.css']
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+AUTHORS_BIO = {
+  "NMehdi": {
+    "name": "NMehdi",
+    "cover": "assets/images/avatar.png",
+	"image": "assets/images/avatar.png",
+    "website": "https://nmehdi.github.io/blog",
+    "location": "Paris",
+    "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
+	 #"linkedin": "https://www.linkedin.com/in/johnsobanski/",
+    #"github": "https://github.com/hatdropper1977",
+  }
+ }

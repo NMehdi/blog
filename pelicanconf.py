@@ -89,7 +89,14 @@ PLUGIN_PATHS = [
 PLUGINS = [
   'sitemap', 
   'neighbors', 
-  'assets'
+  'assets',
+  'series',
+   'tag_cloud',
+   'liquid_tags.youtube',
+   'liquid_tags.notebook',
+   'liquid_tags.include_code',
+   'render_math',
+   'pelican-ipynb.markup'
 ]
 
 # Sitemap

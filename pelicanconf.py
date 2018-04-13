@@ -4,8 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'NMehdi'
 SITENAME = u'Datascience, what else'
-SITEURL = 'https://nmehdi.github.io/blog'
-#SITEURL = ''
+SITESUBTITLE = u'No pain, no gain'
+#SITEURL = 'https://nmehdi.github.io/blog'
+SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
@@ -82,7 +83,7 @@ AUTHORS_SAVE_AS = 'authors.html'
 THEME = 'pelican-themes/attila-master'
 
 ### Plugins
-MARKUP = ('md', 'ipynb')
+#MARKUP = ('md', 'ipynb')
 
 PLUGIN_PATHS = [
   'pelican-plugins'
@@ -117,7 +118,7 @@ SITEMAP = {
 }
 
 # Comments
-DISQUS_SITENAME = "nmehdi-blog"
+DISQUS_SITENAME = "nmehdiblog"
 
 ### Theme specific settings
 

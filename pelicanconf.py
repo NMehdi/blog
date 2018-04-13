@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'NMehdi'
 SITENAME = u'Datascience, what else'
-SITESUBTITLE = u'No pain, no gain'
+SITESUBTITLE = u'No pain no gain'
 SITEURL = 'https://nmehdi.github.io/blog'
 #SITEURL = ''
 PATH = 'content'

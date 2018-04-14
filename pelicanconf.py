@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Mehdi NOUI'
+AUTHORS = u'Mehdi NOUI'
 SITENAME = u'Datascience, what else'
 SITESUBTITLE = u'(N)EVER (S)TOP LEARNING'
 SITEURL = 'http://www.nmehdiblog.com'
@@ -116,15 +116,14 @@ SITEMAP = {
 
 # Comments
 DISQUS_SITENAME = "nmehdiblog"
+JS_OVERRIDE = ['']
 
 #Github
 GITHUB_URL = 'https://github.com/NMehdi/blog'
 
 ### Theme specific settings
-
 COLOR_SCHEME_CSS = 'github.css'
-
-CSS_OVERRIDE = ['assets/css/myblog.css']
+CSS_OVERRIDE = ['assets/css/better_responsive_images.css']
 
 AUTHORS_BIO = {
   "nmehdi": {

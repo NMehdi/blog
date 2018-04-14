@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'NMehdi'
+AUTHOR = u'Mehdi NOUI'
 SITENAME = u'Datascience, what else'
 SITESUBTITLE = u'No pain no gain'
 SITEURL = 'http://www.nmehdiblog.com'
@@ -120,6 +120,9 @@ SITEMAP = {
 # Comments
 DISQUS_SITENAME = "nmehdiblog"
 
+#Github
+GITHUB_URL = 'https://github.com/NMehdi/blog'
+
 ### Theme specific settings
 
 COLOR_SCHEME_CSS = 'github.css'
@@ -127,11 +130,11 @@ COLOR_SCHEME_CSS = 'github.css'
 CSS_OVERRIDE = ['assets/css/myblog.css']
 
 AUTHORS_BIO = {
-  "NMehdi": {
-    "name": "NMehdi",
-    "cover": "assets/images/avatar.png",
-	"image": "assets/images/avatar.png",
-    "website": "https://nmehdi.github.io/blog",
+  "nmehdi": {
+    "name": "Mehdi NOUI",
+    "cover": "/assets/images/avatar.png",
+	"image": "/assets/images/avatar.png",
+    "website": "http://www.nmehdiblog.com",
     "location": "Paris",
     "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
 	 #"linkedin": "https://www.linkedin.com/in/johnsobanski/",

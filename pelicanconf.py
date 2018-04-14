@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Mehdi NOUI'
 SITENAME = u'Datascience, what else'
-SITESUBTITLE = u'No pain no gain'
+SITESUBTITLE = u'(N)EVER (S)TOP LEARNING'
 SITEURL = 'http://www.nmehdiblog.com'
 #SITEURL = ''
 PATH = 'content'
@@ -69,7 +69,6 @@ MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 # Tags and Category path 
 CATEGORY_URL = 'category/{slug}'
 CATEGORY_SAVE_AS = 'category/{slug}/index.html'
-#CATEGORIES_SAVE_AS = 'categories.html'
 TAG_URL = 'tag/{slug}'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
 TAGS_SAVE_AS = 'tags.html'
@@ -83,8 +82,6 @@ AUTHORS_SAVE_AS = 'authors.html'
 THEME = 'pelican-themes/attila-master'
 
 ### Plugins
-#MARKUP = ('md', 'ipynb')
-
 PLUGIN_PATHS = [
   'pelican-plugins'
 ]

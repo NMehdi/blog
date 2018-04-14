@@ -11,14 +11,19 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 SITEURL = 'http://www.nmehdiblog.com'
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 
+# Generate feed while publish
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/category/%s.atom.xml'
+TAG_FEED_ATOM = 'feeds/tag/%s.atom.xml'
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 
-DELETE_OUTPUT_DIRECTORY = True
+#DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-DISQUS_SITENAME = "nmehdiblog"
+#DISQUS_SITENAME = "nmehdiblog"
 #GOOGLE_ANALYTICS = ""

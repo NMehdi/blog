@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHORS = u'Mehdi NOUI'
+AUTHOR = u'Mehdi'
 SITENAME = u'Datascience, what else'
 SITESUBTITLE = u'(N)EVER (S)TOP LEARNING'
-SITEURL = 'http://www.nmehdiblog.com'
-#SITEURL = ''
+#SITEURL = 'http://www.nmehdiblog.com'
+SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
@@ -14,8 +14,11 @@ DEFAULT_DATE_FORMAT = '%d %b %Y'
 
 DEFAULT_LANG = u'en'
 
+DISPLAY_CATEGORIES_ON_MENU = False
+FAVICON_FILENAME = "favicon.ico"
 LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = False
+
 MENUITEMS = [('Machine Learning','/category/machine-learning'), ('Deep Learning','/category/deep-learning'), 
 							('Natural Languge Processing','/category/nlp'), ('Recommandation Systems','/category/recommandation-systems')]
 
@@ -52,12 +55,15 @@ STATIC_PATHS = ['assets']
 EXTRA_PATH_METADATA = {
     'assets/robots.txt': {'path': 'robots.txt'},
     'assets/favicon.ico': {'path': 'favicon.ico'},
-    'assets/CNAME': {'path': 'CNAME'}
+    'assets/CNAME': {'path': 'CNAME'},
+	'assets/css/better_responsive_images.css': {'path': 'css/better_responsive_images.css'}
 }
 
 # Post and Pages path 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
+
+PAGE_PATHS = ['pages']
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
@@ -96,7 +102,9 @@ PLUGINS = [
    'liquid_tags.notebook',
    'liquid_tags.include_code',
    'render_math',
-   'pelican-ipynb.markup'
+   'pelican-ipynb.markup',
+   'related_posts', 
+  'post_stats'
 ]
 
 # Sitemap
@@ -116,24 +124,24 @@ SITEMAP = {
 
 # Comments
 DISQUS_SITENAME = "nmehdiblog"
-JS_OVERRIDE = ['']
 
 #Github
 GITHUB_URL = 'https://github.com/NMehdi/blog'
 
 ### Theme specific settings
+# Copied from https://github.com/mingp/pelican-clean-blog-theme/blob/master/static/css/clean-blog.css
 COLOR_SCHEME_CSS = 'github.css'
-CSS_OVERRIDE = ['assets/css/better_responsive_images.css']
+CSS_OVERRIDE = ['css/better_responsive_images.css']
 
 AUTHORS_BIO = {
   "nmehdi": {
-    "name": "Mehdi NOUI",
+    "name": "Mehdi N.",
     "cover": "/assets/images/avatar.png",
-	"image": "/assets/images/avatar.png",
+    "image": "/assets/images/avatar.png",
     "website": "http://www.nmehdiblog.com",
     "location": "Paris",
-    "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
-	 #"linkedin": "https://www.linkedin.com/in/johnsobanski/",
-    #"github": "https://github.com/hatdropper1977",
+    "bio": "• Data Scientist • Machine Learning • Python • R • Aspiring Entrepreneur • : This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
+   #"twitter": "url",
+    #"facebook": "url"
   }
- }
+}

@@ -5,42 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.nmehdiblog.com/</loc>
-<lastmod>2018-04-14T22:23:00-00:00</lastmod>
+<lastmod>2018-04-15T13:01:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.nmehdiblog.com/archives.html</loc>
-<lastmod>2018-04-14T22:23:00-00:00</lastmod>
+<lastmod>2018-04-15T13:01:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.nmehdiblog.com/tags.html</loc>
-<lastmod>2018-04-14T22:23:00-00:00</lastmod>
+<lastmod>2018-04-15T13:01:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.nmehdiblog.com/categories.html</loc>
-<lastmod>2018-04-14T22:23:00-00:00</lastmod>
+<lastmod>2018-04-15T13:01:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.nmehdiblog.com/pages/about/</loc>
-<lastmod>2018-04-14T22:23:00-00:00</lastmod>
+<lastmod>2018-04-15T13:01:24-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.nmehdiblog.com/pages/subscribe/</loc>
-<lastmod>2018-04-14T22:23:00-00:00</lastmod>
+<lastmod>2018-04-15T13:01:24-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -48,6 +48,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.nmehdiblog.com/2018/04/introduction-to-deep-learning.html</loc>
 <lastmod>2018-04-11T13:39:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.nmehdiblog.com/2018/04/multi-class-classification.html</loc>
+<lastmod>2018-04-10T13:37:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -61,21 +68,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.nmehdiblog.com/2018/04/analyse-car-sales-in-2016.html</loc>
-<lastmod>2018-04-08T13:38:00+02:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.nmehdiblog.com/2018/04/multi-class-classification.html</loc>
-<lastmod>2018-04-08T13:37:00+02:00</lastmod>
+<lastmod>2018-04-07T13:38:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.nmehdiblog.com/2018/04/recommandation-systems.html</loc>
-<lastmod>2018-04-08T13:20:00+02:00</lastmod>
+<lastmod>2018-04-06T13:20:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -96,14 +96,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.nmehdiblog.com/category/nlp</loc>
-<lastmod>2018-04-08T13:37:00+00:09</lastmod>
+<lastmod>2018-04-10T13:37:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.nmehdiblog.com/category/recommandation-systems</loc>
-<lastmod>2018-04-08T13:20:00+00:09</lastmod>
+<lastmod>2018-04-06T13:20:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -123,56 +123,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.nmehdiblog.com/tag/r</loc>
-<lastmod>2018-04-08T13:38:00+00:09</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.nmehdiblog.com/tag/outliers</loc>
-<lastmod>2018-04-08T13:38:00+00:09</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.nmehdiblog.com/tag/na</loc>
-<lastmod>2018-04-08T13:38:00+00:09</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://www.nmehdiblog.com/tag/classification</loc>
-<lastmod>2018-04-08T13:37:00+00:09</lastmod>
+<lastmod>2018-04-10T13:37:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.nmehdiblog.com/tag/text-mining</loc>
-<lastmod>2018-04-08T13:37:00+00:09</lastmod>
+<lastmod>2018-04-10T13:37:00+00:09</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.nmehdiblog.com/tag/r</loc>
+<lastmod>2018-04-07T13:38:00+00:09</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.nmehdiblog.com/tag/outliers</loc>
+<lastmod>2018-04-07T13:38:00+00:09</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.nmehdiblog.com/tag/na</loc>
+<lastmod>2018-04-07T13:38:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.nmehdiblog.com/tag/recommandation</loc>
-<lastmod>2018-04-08T13:20:00+00:09</lastmod>
+<lastmod>2018-04-06T13:20:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.nmehdiblog.com/tag/index-jaccard</loc>
-<lastmod>2018-04-08T13:20:00+00:09</lastmod>
+<lastmod>2018-04-06T13:20:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.nmehdiblog.com/author/mehdi-noui</loc>
+<loc>http://www.nmehdiblog.com/author/mehdi-n</loc>
 <lastmod>2018-04-11T13:39:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

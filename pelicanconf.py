@@ -37,8 +37,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('github', 'https://github.com/NMehdi'),
+          ('linkedin', 'https://www.linkedin.com/in/mehdi-noui'))
 
 # Pagination
 DEFAULT_PAGINATION = 3
@@ -141,8 +141,8 @@ AUTHORS_BIO = {
     "image": "assets/images/avatar.png",
     "website": "http://www.nmehdiblog.com",
     "location": "Paris",
-    "bio": "• Data Scientist • Machine Learning • Python • R • NLP •"
-    #"twitter": "arulrajnet",
-    #"facebook": "arulraj.net"
+    "bio": "• Data Scientist • Machine Learning • Python • R • NLP •",
+    "github": "NMehdi",
+    "linkedin": "in/mehdi-noui"
   }
 }

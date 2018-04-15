@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = u'Mehdi'
 SITENAME = u'Datascience, what else'
 SITESUBTITLE = u'(N)EVER (S)TOP LEARNING'
-#SITEURL = 'http://www.nmehdiblog.com'
-SITEURL = ''
+SITEURL = 'http://www.nmehdiblog.com'
+#SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
@@ -134,14 +134,14 @@ COLOR_SCHEME_CSS = 'github.css'
 CSS_OVERRIDE = ['css/better_responsive_images.css']
 
 AUTHORS_BIO = {
-  "nmehdi": {
-    "name": "Mehdi N.",
-    "cover": "/assets/images/avatar.png",
-    "image": "/assets/images/avatar.png",
+  "mehdi": {
+    "name": "Mehdi N",
+    "cover": "https://github.com/NMehdi/blog/blob/master/content/assets/images/avatar.png",
+    "image": "https://github.com/NMehdi/blog/blob/master/content/assets/images/avatar.png",
     "website": "http://www.nmehdiblog.com",
     "location": "Paris",
-    "bio": "• Data Scientist • Machine Learning • Python • R • Aspiring Entrepreneur • : This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
-   #"twitter": "url",
-    #"facebook": "url"
+    "bio": "• Data Scientist • Machine Learning • Python • R • Aspiring Entrepreneur • : This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?",
+    "twitter": "arulrajnet",
+    "facebook": "arulraj.net"
   }
 }

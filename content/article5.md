@@ -4,7 +4,7 @@ Status: published
 Category: deep learning
 Tags: python, kera
 Slug: introduction-to-deep-learning
-Author: Mehdi Noui
+Author: Mehdi N.
 
 This is the content of my super blog post.
 

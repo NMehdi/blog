@@ -4,7 +4,7 @@ Status: published
 Category: machine learning
 Tags: python
 Slug: embedded-class
-Author: Mehdi N.
+Author: Mehdi
 
 This is the content of my super blog post.
 

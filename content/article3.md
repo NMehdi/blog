@@ -4,7 +4,7 @@ Status: published
 Category: machine learning
 Tags: R, outliers, na
 Slug: analyse-car-sales-in-2016
-Author: Mehdi N.
+Author: Mehdi
 
 This is the content of my super blog post.
 

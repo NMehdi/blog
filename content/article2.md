@@ -4,6 +4,6 @@ Status: published
 Category: nlp
 Tags: python, classification, text-mining
 Slug: multi-class-classification
-Author: Mehdi N.
+Author: Mehdi
 
 This is the content of my super blog post.

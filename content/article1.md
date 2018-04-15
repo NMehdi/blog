@@ -4,7 +4,7 @@ Status: published
 Category: recommandation systems
 Tags: recommandation, R, index-jaccard
 Slug: recommandation-systems
-Author: Mehdi N.
+Author: Mehdi
 
 This is the content of my super blog post.
 

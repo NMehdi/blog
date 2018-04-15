@@ -2,11 +2,12 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Mehdi'
+AUTHOR = u'Mehdi NOUI'
 SITENAME = u'Datascience, what else'
 SITESUBTITLE = u'(N)EVER (S)TOP LEARNING'
-SITEURL = 'http://www.nmehdiblog.com'
-#SITEURL = ''
+#SITEURL = 'http://www.nmehdiblog.com'
+SITEURL = ''
+
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
@@ -135,13 +136,13 @@ CSS_OVERRIDE = ['css/better_responsive_images.css']
 
 AUTHORS_BIO = {
   "mehdi": {
-    "name": "Mehdi N",
-    "cover": "https://github.com/NMehdi/blog/blob/master/content/assets/images/avatar.png",
-    "image": "https://github.com/NMehdi/blog/blob/master/content/assets/images/avatar.png",
+    "name": "Mehdi N.",
+    "cover": "assets/images/about-bg.jpg",
+    "image": "assets/images/avatar.png",
     "website": "http://www.nmehdiblog.com",
     "location": "Paris",
-    "bio": "• Data Scientist • Machine Learning • Python • R • Aspiring Entrepreneur • : This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?",
-    "twitter": "arulrajnet",
-    "facebook": "arulraj.net"
+    "bio": "• Data Scientist • Machine Learning • Python • R • NLP •"
+    #"twitter": "arulrajnet",
+    #"facebook": "arulraj.net"
   }
 }

@@ -38,7 +38,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/NMehdi'),
-          ('linkedin', 'https://www.linkedin.com/in/mehdi-noui'))
+                  ('linkedin', 'https://www.linkedin.com/in/mehdi-noui'),)
 
 # Pagination
 DEFAULT_PAGINATION = 3
@@ -143,6 +143,6 @@ AUTHORS_BIO = {
     "location": "Paris",
     "bio": "• Data Scientist • Machine Learning • Python • R • NLP •",
     "github": "NMehdi",
-    "linkedin": "in/mehdi-noui"
+    "linkedin": "mehdi-noui"
   }
 }

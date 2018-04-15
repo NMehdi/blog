@@ -137,7 +137,7 @@ CSS_OVERRIDE = ['css/better_responsive_images.css']
 AUTHORS_BIO = {
   "mehdi": {
     "name": "Mehdi N.",
-    "cover": "assets/images/about-bg.jpg",
+    "cover": "assets/images/home-bg.jpg",
     "image": "assets/images/avatar.png",
     "website": "http://www.nmehdiblog.com",
     "location": "Paris",

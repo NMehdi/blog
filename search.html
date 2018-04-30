@@ -7,7 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
 
-  <title>About</title>
+  <title>Search · Datascience, what else
+</title>
 
 
   <meta name="HandheldFriendly" content="True" />
@@ -77,40 +78,77 @@
           <li><a href="/category/nlp" role="presentation">Natural Languge Processing</a></li>
           <li><a href="/category/recommandation-systems" role="presentation">Recommandation Systems</a></li>
 
-              <li class="nav-about active" role="presentation"><a href="http://www.nmehdiblog.com/pages/about/">About</a></li>
+              <li role="presentation"><a href="http://www.nmehdiblog.com/pages/about/">About</a></li>
               <li role="presentation"><a href="http://www.nmehdiblog.com/pages/subscribe/">Subscribe</a></li>
 
     </ul>
   </div>
 </nav>    <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header id="post-header" class="has-cover">
+    <header id="blog-header" class="has-cover">
       <div class="inner">
         <nav id="navigation">
-            <span id="home-button" class="nav-button">
-                <a class="home-button" href="http://www.nmehdiblog.com/" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
-            </span>
           <span id="menu-button" class="nav-button">
             <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
           </span>
         </nav>
-        <h1 class="post-title">About</h1>
-            <div class="post-cover cover" style="background-image: url('http://www.nmehdiblog.com/theme/images/about-bg.jpg')">
+        <h1 class="blog-name"><a href="http://www.nmehdiblog.com/">Datascience, what else</a></h1>
+        <span class="blog-description">(N)EVER (S)TOP LEARNING</span>
+            <div class="blog-cover cover" style="background-image: url('http://www.nmehdiblog.com/theme/images/home-bg.jpg')">
+ 
+		<!--Load CSS for the Tipue Search-->
+		<link rel="stylesheet" href="http://www.nmehdiblog.com/theme/tipuesearch/css/tipuesearch.css">
+		<form id="searchform" action="/search" onsubmit="return (this.elements['q'].value.length > 0)">
+    			<input class="searchbox" type="text" name="q" size="20" placeholder="Search on this blog ...">
+		</form>	
+			
       </div>
     </header>
+
   
   <section id="wrapper">
     <a class="hidden-close"></a>
-  <!-- Post content -->
-  <main class="content" role="main">
-      <article class="post">
-      <div class="inner">
-          <section class="post-content">
-              <p>A nice about me page.</p>
-          </section>
-      </div>
-      </article>
-  </main>
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400">
+<link rel="stylesheet" href="theme/tipuesearch/css/normalize.css">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+
+<script src="theme/tipuesearch/tipuesearch_content.js"></script>
+<link rel="stylesheet" href="theme/tipuesearch/css/tipuesearch.css">
+<script src="theme/tipuesearch/tipuesearch_set.js"></script>
+<script src="theme/tipuesearch/tipuesearch.min.js"></script>
+
+<script>
+var $j = jQuery.noConflict();
+$j(document).ready(function() {
+     $j('#tipue_search_input').tipuesearch({
+         'show': 10,
+         'mode': 'json',
+         'contentLocation': 'http://www.nmehdiblog.com/tipuesearch_content.json',
+		 'highlightTerms': 'True',
+		 'showTime': 'False'
+     });
+});
+</script>
+
+<div style="width:300px; margin-right:auto; margin-left:auto;">
+	<form action="search.html">
+		<div class="tipue_search_left">
+			<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required size="40" placeholder="Search">		
+		</div>
+		<div class="tipue_search_right">
+			<input class="namanyay-search-btn" value="Go" type="submit"/>
+		</div>
+		<div style="clear: both;"></div>
+	</form>
+</div>
+
+  <h1 align="center">
+    Search Results
+  </h1>
+
+<div style="margin-right:auto; margin-left:auto;" id="tipue_search_content"></div>
       <!-- TODO : Body class -->
     <div id="body-class" style="display: none;" class=""></div>
 

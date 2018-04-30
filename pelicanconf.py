@@ -132,6 +132,9 @@ DISQUS_SITENAME = "nmehdiblog"
 #Github
 GITHUB_URL = 'https://github.com/NMehdi/blog'
 
+# Google Analytics
+GOOGLE_ANALYTICS = "UA-118465736-1"
+
 ### Theme specific settings
 # Copied from https://github.com/mingp/pelican-clean-blog-theme/blob/master/static/css/clean-blog.css
 COLOR_SCHEME_CSS = 'github.css'

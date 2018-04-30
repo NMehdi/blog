@@ -23,6 +23,8 @@ DELETE_OUTPUT_DIRECTORY = False
 MENUITEMS = [('Machine Learning','/category/machine-learning'), ('Deep Learning','/category/deep-learning'), 
 							('Natural Languge Processing','/category/nlp'), ('Recommandation Systems','/category/recommandation-systems')]
 
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -105,7 +107,8 @@ PLUGINS = [
    'render_math',
    'pelican-ipynb.markup',
    'related_posts', 
-  'post_stats'
+   'post_stats',
+   'tipue_search'
 ]
 
 # Sitemap
